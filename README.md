@@ -1,5 +1,8 @@
-# creative-coding-template
-A template students of 197191 can use to format their repositories for submission.
+My chosen outputs are:
 
-Click the pencil icon to edit text!
-Then click "commit changes", then select "Commit directly to the main branch" and click "commit changes" again to save your text.
+
+p5.js Outputs
+(insert file name)
+
+1. For loops
+  I chose this output because .......
